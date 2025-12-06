@@ -2,8 +2,8 @@
 title: 14er Log
 draft: false
 tags:
-  - Hiking
-  - Outdoors
+  - hiking
+  - outdoors
 ---
 
 # Background
