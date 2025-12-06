@@ -13,7 +13,7 @@ See the deployed site [Here](https://lyanrarue.github.io/convex-hull/#/home)!
 
 ## Back Story
 
-This was my final project for my Computational Geometry course during my final semester of school. For our project, we had to make a visual representation of a computational geometry algorithm we had covered during the semester. I chose to make mine on the [QuickHull algorithm for finding a Convex Hull](https://dpd.cs.princeton.edu/Papers/BarberDobkinHuhdanpaa.pdf).
+This was my final project for my Computational Geometry course during my final semester of school. For our project, we had to make a visual representation of any algorithm we covered during the semester. I chose to make mine on the [QuickHull algorithm for finding a Convex Hull](https://dpd.cs.princeton.edu/Papers/BarberDobkinHuhdanpaa.pdf).
 
 There's more info on the site, feel free to check it out, and be sure to play with the [interactive app](https://lyanrarue.github.io/convex-hull/#/aide).
 

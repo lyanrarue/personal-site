@@ -13,9 +13,9 @@ See Board Live [Here](https://lyanrarue.github.io/board/)!
 
 ## Back Story
 
-In early 2025, I had started to plateau in my climbing ability. I took a deep diving into training for climbing and started [hangboard training](https://www.rei.com/learn/expert-advice/how-to-use-a-hangboard-to-train-for-rock-climbing.html).
+In early 2025, I had started to plateau in my climbing ability. I took a deep dive into training for climbing and started [hangboard training](https://www.rei.com/learn/expert-advice/how-to-use-a-hangboard-to-train-for-rock-climbing.html).
 
-I was pretty dissatisfied with the off the shelf apps I could find to track my hangboard workouts. The UIs were either clunky, lacked the customization I needed entirely, or locked them behind premium paid plans. As a result, I started to just use my phone's timer.
+I was pretty dissatisfied with the off the shelf apps I could find to track my hangboard workouts. The UIs were either clunky, lacked the customization I needed, or locked features I needed behind premium paid plans. As a result, I started to just use my phone's timer.
 Tracking timing and reps and sets while also hanging my entire body weight of a tiny edge got old fast though, so one night I resolved to make Board.
 
 I sat down and laid out the following requirements:
@@ -27,4 +27,4 @@ I sat down and laid out the following requirements:
 5. Mobile Friendliness
 6. Simple User Experience
 
-The actual development was pretty seamless with a simple implementaiton. I's a static React site with some static data I put in specicically for my protocol (One day I'd love to make the protocol customizeable with localStorage), but it works perfectly for my training!
+The actual development was pretty seamless with a simple implementaiton. It's a static React site with some static data I put in specicically for my protocol (One day I'd love to make the protocol customizeable with localStorage), but it works perfectly for my training for now!
