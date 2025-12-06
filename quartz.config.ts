@@ -1,3 +1,4 @@
+import { sourceMappingURL } from "esbuild-sass-plugin/lib/utils"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -86,7 +87,9 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
+      Plugin.Favicon({
+        sourceMappingURL: "https://emojicdn.elk.sh/🤠",
+      }),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
