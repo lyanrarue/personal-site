@@ -2,7 +2,7 @@
 title: Quickhull Pedagogical Aide
 draft: false
 tags:
-  - computational-geometry
+  - comp-geo
   - algorithms
   - react
   - not-for-mobile

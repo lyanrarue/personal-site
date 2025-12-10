@@ -4,7 +4,7 @@ draft: false
 tags:
   - for-mobile
   - d3
-  - computational-geometry
+  - comp-geo
 ---
 
 ![A Graph](_assets/graph-example.png)
