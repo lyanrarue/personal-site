@@ -4,6 +4,7 @@ draft: false
 tags:
   - hiking
   - outdoors
+  - hobbies
 ---
 
 # Background
