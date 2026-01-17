@@ -8,9 +8,6 @@ tags:
 ---
 
 
-Use the calculator [here](https://lyanrarue.github.io/board/)!
-
-
 ## Back Story
 
 A few years ago, without realizing it at the time, I ended up owing a significant amount in taxes. After digging into the issue, I discovered that my W-4 was under-withholding each pay period, even though I had filled it out correctly.
@@ -25,4 +22,4 @@ I should note that this is mostly vibe-coded React. I’m not a front-end develo
 
 For future-proofing, I also asked Claude to make the setup relatively plug-and-play, so I can spin up new calculators over time by focusing primarily on the formulas as new needs arise. I will try to keep this up to date if and when I add more calculators!
 
-
+Use the calculator [here](https://lyanrarue.github.io/calculators/)!
