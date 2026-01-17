@@ -11,7 +11,7 @@ tags:
 
 See the deployed site [Here](https://lyanrarue.github.io/graph)!
 
-## Overview
+## Back Story
 
 I've always wanted to play around with d3.js, but never really took the time to dive in. I recently had a free evening, and figured I'd give it a shot. I decided to build a basic site in vanilla js to test out and learn some of the functionality with d3 force simulations.
 
